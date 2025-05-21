@@ -85,27 +85,6 @@ The analysis revealed that longer conversations with clients, higher account bal
    pip install -r requirements.txt
    ```
 
-## Usage
-- To run data preprocessing:
-  ```
-  python src/data_cleaning.py
-  ```
-
-- To train and evaluate baseline models:
-  ```
-  python src/baseline_models.py
-  ```
-
-- To train and evaluate tuned models:
-  ```
-  python src/tuned_models.py
-  ```
-
-## Future Work
-- Implement more advanced algorithms (XGBoost, Neural Networks)
-- Address class imbalance using techniques like SMOTE
-- Feature engineering to improve model performance
-- Develop an interactive dashboard for real-time predictions
 
 ## Contributors
 - Darpan Radadiya
