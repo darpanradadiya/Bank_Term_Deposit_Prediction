@@ -1,0 +1,22 @@
+# Core Data Processing and Analysis
+numpy>=1.25.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Machine Learning Libraries
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter and Interactive Development
+jupyter>=1.0.0
+notebook>=6.0.0
+
+# File Handling
+openpyxl>=3.1.0  # For Excel file support
+xlrd>=2.0.0  # For older Excel file formats
+
+# Optional: Based on analysis techniques in your report
+statsmodels>=0.14.0  # For statistical analysis
